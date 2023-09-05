@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'Station de bus'
+description: 'Maquette en bois'
 pubDate: 'Jul 08 2022'
 heroImage: '/img-21.jpg'
 ---

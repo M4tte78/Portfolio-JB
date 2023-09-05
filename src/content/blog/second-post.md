@@ -1,5 +1,5 @@
 ---
-title: 'Second post'
+title: 'Rénovation'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 22 2022'
 heroImage: '/img-4.jpg'
